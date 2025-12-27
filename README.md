@@ -42,7 +42,8 @@ class Car_InventoryAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 
-<img width="1917" height="972" alt="nithyaorm" src="https://github.com/user-attachments/assets/d953a1a5-7f13-4685-9a03-fc421d6ddc6e" />
+<img width="1919" height="974" alt="Screenshot 2025-12-27 101052" src="https://github.com/user-attachments/assets/b131a841-eba5-4454-b4a4-1b8dbe3231d9" />
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
